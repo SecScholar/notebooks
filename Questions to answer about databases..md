@@ -1,0 +1,3 @@
+- How do I use databases in my everyday life?
+- How do different kinds of database objects work together?
+- How are databases similar to spreadsheets? How are they different?

@@ -1,0 +1,1 @@
+A data warehouse is a type

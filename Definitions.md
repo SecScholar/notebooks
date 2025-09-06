@@ -1,0 +1,1 @@
+Expounds - present and explain (a theory or idea) systematically and in detail.
